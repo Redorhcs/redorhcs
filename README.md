@@ -8,4 +8,5 @@ My work focuses on three specific areas:
 - Cyber Security & Cross Domain Solutions
 - Systems Administration and Automation
 
+  <a href="https://about.rts2.us/">View my resume</a>
 -----
